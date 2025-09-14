@@ -178,3 +178,47 @@ border-radius: 48px;
   gap: 10px;
   margin-left:10px;
 }
+
+.banner{  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  background-color: #f4f4f7;
+  border-radius: 10px;
+
+}
+.banana{
+padding: 18px 35px;
+ align-items: center;
+ margin-top: 18px;
+}
+
+
+.Touch{ width: auto;
+  background-color: #ffffffc9;
+}
+.form{
+   font-size:larger;
+    height: 64px; width:90% ;
+    border-radius: 5px;
+    background-color: white ;
+    display: block;
+    padding: 10px 20px ;
+    margin-bottom: 24px ;
+    border: none;
+}
+footer input[type='text'] , footer input[type="email"] ,footer textarea  { font-size:larger;
+    height: 54px; width:95% ;
+    border-radius: 5px;
+    background-color: rgba(248, 236, 236, 0.904) ;
+    display: block;
+    padding: 10px 20px ;
+    margin-bottom: 24px ;
+    border: none;
+}
+.ami8{
+  
+ height: 54px; width:108% ;
+}
+
+
